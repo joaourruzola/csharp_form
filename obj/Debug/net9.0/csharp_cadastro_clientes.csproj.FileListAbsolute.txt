@@ -1,0 +1,14 @@
+C:\Users\João Braun\Desktop\Code\Code\CodeExperiments\csharp_cadastro_clientes\bin\Debug\net9.0\csharp_cadastro_clientes.exe
+C:\Users\João Braun\Desktop\Code\Code\CodeExperiments\csharp_cadastro_clientes\bin\Debug\net9.0\csharp_cadastro_clientes.deps.json
+C:\Users\João Braun\Desktop\Code\Code\CodeExperiments\csharp_cadastro_clientes\bin\Debug\net9.0\csharp_cadastro_clientes.runtimeconfig.json
+C:\Users\João Braun\Desktop\Code\Code\CodeExperiments\csharp_cadastro_clientes\bin\Debug\net9.0\csharp_cadastro_clientes.dll
+C:\Users\João Braun\Desktop\Code\Code\CodeExperiments\csharp_cadastro_clientes\bin\Debug\net9.0\csharp_cadastro_clientes.pdb
+C:\Users\João Braun\Desktop\Code\Code\CodeExperiments\csharp_cadastro_clientes\obj\Debug\net9.0\csharp_cadastro_clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Braun\Desktop\Code\Code\CodeExperiments\csharp_cadastro_clientes\obj\Debug\net9.0\csharp_cadastro_clientes.AssemblyInfoInputs.cache
+C:\Users\João Braun\Desktop\Code\Code\CodeExperiments\csharp_cadastro_clientes\obj\Debug\net9.0\csharp_cadastro_clientes.AssemblyInfo.cs
+C:\Users\João Braun\Desktop\Code\Code\CodeExperiments\csharp_cadastro_clientes\obj\Debug\net9.0\csharp_cadastro_clientes.csproj.CoreCompileInputs.cache
+C:\Users\João Braun\Desktop\Code\Code\CodeExperiments\csharp_cadastro_clientes\obj\Debug\net9.0\csharp_cadastro_clientes.dll
+C:\Users\João Braun\Desktop\Code\Code\CodeExperiments\csharp_cadastro_clientes\obj\Debug\net9.0\refint\csharp_cadastro_clientes.dll
+C:\Users\João Braun\Desktop\Code\Code\CodeExperiments\csharp_cadastro_clientes\obj\Debug\net9.0\csharp_cadastro_clientes.pdb
+C:\Users\João Braun\Desktop\Code\Code\CodeExperiments\csharp_cadastro_clientes\obj\Debug\net9.0\csharp_cadastro_clientes.genruntimeconfig.cache
+C:\Users\João Braun\Desktop\Code\Code\CodeExperiments\csharp_cadastro_clientes\obj\Debug\net9.0\ref\csharp_cadastro_clientes.dll

@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\João Braun\\Desktop\\Code\\Code\\CodeExperiments\\csharp_cadastro_clientes\\csharp_cadastro_clientes.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\João Braun\\Desktop\\Code\\Code\\CodeExperiments\\csharp_cadastro_clientes\\csharp_cadastro_clientes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\João Braun\\Desktop\\Code\\Code\\CodeExperiments\\csharp_cadastro_clientes\\csharp_cadastro_clientes.csproj",
+        "projectName": "csharp_cadastro_clientes",
+        "projectPath": "C:\\Users\\João Braun\\Desktop\\Code\\Code\\CodeExperiments\\csharp_cadastro_clientes\\csharp_cadastro_clientes.csproj",
+        "packagesPath": "C:\\Users\\João Braun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\João Braun\\Desktop\\Code\\Code\\CodeExperiments\\csharp_cadastro_clientes\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\João Braun\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0-windows"
+        ],
+        "frameworks": {
+          "net9.0-windows7.0": {
+            "targetAlias": "net9.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
