@@ -4,6 +4,8 @@ https://www.youtube.com/watch?v=wCvICwWJS5k&list=PLKkX54_jcM44qN1qkdE1wfkuitOLrn
 */
 
 using System;
+using System.IO;
+using System.Drawing;
 using System.Windows.Forms;
 
 public class MyForm : Form
@@ -13,7 +15,12 @@ public class MyForm : Form
         this.Text = "Cadastro de clientes";
         this.Width = 800;
         this.Height = 600;
-        this.ShowIcon = false;
+
+        //ícone do formulário
+        string iconPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "assets", "check.ico");
+        this.Icon = new Icon(iconPath);
+
+        this.ShowIcon = true;
 
         var Label = new Label()
         {
